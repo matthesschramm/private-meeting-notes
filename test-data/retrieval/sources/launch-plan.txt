@@ -1,0 +1,17 @@
+Launch plan, version 3
+
+Page 1: Overview
+
+The product launches on 20 October. The press release goes out on the morning of launch day, subject to the final decision on timing.
+Marketing will run a paid social campaign for two weeks after launch.
+
+Page 2: Support
+
+Support hours during launch week are 7 am to 10 pm, Melbourne time, seven days a week.
+Two people from sales help with the chat queue, and one engineer joins support for the first three days.
+The help centre publishes twelve new articles the day before launch.
+
+Page 3: Risks
+
+The main known risk is delayed background sync on older tablets when battery saver is on. The fix ships in the first patch release.
+A second risk is the 25,000 dollar contingency for the launch event, which this plan does not cover.

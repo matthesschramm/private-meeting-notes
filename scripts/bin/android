@@ -1,0 +1,3 @@
+#!/bin/sh
+# The Android CLI collects usage metrics unless every call passes --no-metrics.
+exec "$(cd "$(dirname "$0")/../.." && pwd)/.tooling/android-sdk/cmdline-tools/latest/bin/android" --no-metrics "$@"

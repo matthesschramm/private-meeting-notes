@@ -1,0 +1,9 @@
+{
+  "name": "private-meeting-notes-nemotron-parity",
+  "private": true,
+  "type": "module",
+  "description": "Runs the reference JavaScript Nemotron pipeline on the Mac for the parity test.",
+  "dependencies": {
+    "onnxruntime-node": "1.30.0"
+  }
+}

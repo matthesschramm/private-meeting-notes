@@ -1,0 +1,19 @@
+{
+  "notes": "Retrieval test (development plan, Build 2 task 6). Meetings are the synthetic sets' ground-truth transcripts; documents are the files in this folder. A question passes when every expected source is among the retrieved passages and the answer contains one of each group of expected words.",
+  "meetings": ["two-speakers", "four-speakers", "six-speakers"],
+  "documents": ["travel-policy.md", "office-move-budget-memo.docx", "launch-plan.pdf", "annual-report.pdf"],
+  "questions": [
+    {"q": "How much more does the hosting renewal cost than last year?", "sources": ["two-speakers"], "answer": [["eighteen", "18"]]},
+    {"q": "What did Sarah and James decide about the length of the hosting contract?", "sources": ["two-speakers"], "answer": [["one year", "1 year", "one-year"]]},
+    {"q": "Which candidate has done a cloud migration before?", "sources": ["two-speakers"], "answer": [["marco"]]},
+    {"q": "When is the product launch?", "sources": ["four-speakers"], "answer": [["20", "twentieth"]]},
+    {"q": "Why is the launch video late?", "sources": ["four-speakers"], "answer": [["onboarding", "screens"]]},
+    {"q": "Which engineer will help the support team at launch?", "sources": ["four-speakers"], "answer": [["tom"]]},
+    {"q": "When will we get the keys to the new office?", "sources": ["six-speakers"], "answer": [["february"]]},
+    {"q": "How much notice does the fibre provider need?", "sources": ["six-speakers"], "answer": [["ten weeks", "10 weeks"]]},
+    {"q": "What is the daily meal allowance when travelling for work?", "sources": ["travel-policy.md"], "answer": [["95"]]},
+    {"q": "What are the support hours during launch week?", "sources": ["launch-plan.pdf"], "answer": [["7"], ["10"]]},
+    {"q": "When does the Geelong warehouse lease end?", "sources": ["annual-report.pdf"], "answer": [["march"], ["2027"]], "page": 87},
+    {"q": "Is the office move contingency still above the minimum the board set?", "sources": ["six-speakers", "office-move-budget-memo.docx"], "answer": [["30,000", "thirty thousand", "30 000", "30k"], ["20,000", "twenty thousand", "20 000", "20k"]]}
+  ]
+}

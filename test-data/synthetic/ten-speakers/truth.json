@@ -1,0 +1,768 @@
+{
+ "title": "Ten-person planning workshop",
+ "durationSec": 678.911,
+ "speakers": [
+  "Raj",
+  "Olivia",
+  "James",
+  "Frank",
+  "Niamh",
+  "Emily",
+  "Priya",
+  "Oliver",
+  "Kate",
+  "Thandi"
+ ],
+ "segments": [
+  {
+   "speaker": "Raj",
+   "start": 0.6,
+   "end": 9.351,
+   "text": "Good afternoon, everyone. This is the steering committee for the office move, and we have six items today. Let's start with the timeline."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 10.064,
+   "end": 17.324,
+   "text": "The landlord has confirmed we can get the keys on the first of February. The fit-out will take about eight weeks after that."
+  },
+  {
+   "speaker": "Raj",
+   "start": 17.647,
+   "end": 20.243,
+   "text": "So we'd move in at the start of April?"
+  },
+  {
+   "speaker": "James",
+   "start": 20.971,
+   "end": 26.594,
+   "text": "Early April, yes, assuming the council approves the plans for the kitchen and the bathrooms."
+  },
+  {
+   "speaker": "Frank",
+   "start": 26.375,
+   "end": 28.825,
+   "text": "When do we expect the council decision?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 29.322,
+   "end": 33.568,
+   "text": "They said four to six weeks. We submitted the plans last Monday."
+  },
+  {
+   "speaker": "Emily",
+   "start": 33.875,
+   "end": 37.905,
+   "text": "Okay. Olivia, what does that mean for the lease on the current office?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 38.172,
+   "end": 46.082,
+   "text": "Our current lease ends on the thirty first of March. We can extend month to month, but the rent goes up by twenty percent."
+  },
+  {
+   "speaker": "James",
+   "start": 46.634,
+   "end": 49.406,
+   "text": "Twenty percent is steep. Is that negotiable?"
+  },
+  {
+   "speaker": "Priya",
+   "start": 49.624,
+   "end": 56.353,
+   "text": "I've asked. They'll come back to me next week. Worst case, one extra month costs us about nine thousand dollars."
+  },
+  {
+   "speaker": "Oliver",
+   "start": 57.112,
+   "end": 61.782,
+   "text": "Let's plan for one extra month as a contingency, and hope we don't need it."
+  },
+  {
+   "speaker": "Emily",
+   "start": 62.145,
+   "end": 65.995,
+   "text": "Can I raise the network setup? That's the thing most likely to delay us."
+  },
+  {
+   "speaker": "Kate",
+   "start": 66.512,
+   "end": 68.117,
+   "text": "Go ahead, Raj."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 68.706,
+   "end": 76.243,
+   "text": "The building has fibre, but the provider needs ten weeks' notice to connect us. If we order it after the keys, we'll miss April."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 76.637,
+   "end": 78.877,
+   "text": "Can we order it before we have the keys?"
+  },
+  {
+   "speaker": "James",
+   "start": 79.331,
+   "end": 85.858,
+   "text": "Yes, if the landlord signs the access form. I sent it to them on Tuesday, but I haven't heard back."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 85.532,
+   "end": 89.783,
+   "text": "I'll chase the landlord tomorrow. I'm meeting their property manager anyway."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 89.537,
+   "end": 94.057,
+   "text": "Thanks, Frank. If we get the form signed this week, we're fine."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 94.391,
+   "end": 98.991,
+   "text": "Good. Next item, furniture. Thandi, you were collecting quotes."
+  },
+  {
+   "speaker": "Emily",
+   "start": 99.507,
+   "end": 107.375,
+   "text": "I have three quotes. The cheapest is forty two thousand, and the one I'd recommend is fifty one thousand, because it includes installation."
+  },
+  {
+   "speaker": "Frank",
+   "start": 108.031,
+   "end": 109.902,
+   "text": "What's the difference in quality?"
+  },
+  {
+   "speaker": "Oliver",
+   "start": 110.388,
+   "end": 116.938,
+   "text": "The desks are the same. The recommended one has better chairs and a five year warranty, instead of two years."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 117.322,
+   "end": 122.282,
+   "text": "Then I think the extra cost is worth it, especially with the installation included."
+  },
+  {
+   "speaker": "Emily",
+   "start": 122.853,
+   "end": 127.213,
+   "text": "I agree. Installation alone would cost us five or six thousand otherwise."
+  },
+  {
+   "speaker": "Priya",
+   "start": 127.672,
+   "end": 131.099,
+   "text": "Any objections to going with the fifty one thousand dollar quote?"
+  },
+  {
+   "speaker": "James",
+   "start": 130.791,
+   "end": 131.909,
+   "text": "No objections."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 132.458,
+   "end": 133.278,
+   "text": "None from me."
+  },
+  {
+   "speaker": "Kate",
+   "start": 134.05,
+   "end": 141.418,
+   "text": "Then that's decided. Thandi, please accept that quote and ask for delivery in the last week of March."
+  },
+  {
+   "speaker": "James",
+   "start": 142.039,
+   "end": 145.711,
+   "text": "Will do. I'll send the purchase order to finance by Wednesday."
+  },
+  {
+   "speaker": "Raj",
+   "start": 145.957,
+   "end": 150.687,
+   "text": "Next, the seating plan. James, you were going to survey the teams."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 151.196,
+   "end": 158.476,
+   "text": "Yes. About seventy percent of people want to keep fixed desks, and thirty percent are happy to hot desk."
+  },
+  {
+   "speaker": "Emily",
+   "start": 158.738,
+   "end": 164.508,
+   "text": "The sales team wants to sit near the meeting rooms, and the engineers want the quiet corner away from the kitchen."
+  },
+  {
+   "speaker": "Raj",
+   "start": 164.949,
+   "end": 166.014,
+   "text": "Very much so."
+  },
+  {
+   "speaker": "Kate",
+   "start": 165.792,
+   "end": 170.86,
+   "text": "That seems reasonable. Can you draft a seating plan for the next meeting?"
+  },
+  {
+   "speaker": "Emily",
+   "start": 171.544,
+   "end": 174.431,
+   "text": "I can have a first draft by the twentieth of January."
+  },
+  {
+   "speaker": "James",
+   "start": 175.097,
+   "end": 179.012,
+   "text": "Great. Olivia, the budget. Where do we stand overall?"
+  },
+  {
+   "speaker": "Olivia",
+   "start": 179.207,
+   "end": 186.877,
+   "text": "The approved budget is three hundred and twenty thousand. With the furniture decision, we've committed two hundred and ninety."
+  },
+  {
+   "speaker": "Emily",
+   "start": 187.182,
+   "end": 191.762,
+   "text": "That leaves thirty thousand for contingencies, which is a bit thin given the lease risk."
+  },
+  {
+   "speaker": "Raj",
+   "start": 192.248,
+   "end": 198.398,
+   "text": "The fit-out quote also has a ten percent allowance for surprises, so we have some cushion there."
+  },
+  {
+   "speaker": "Frank",
+   "start": 198.982,
+   "end": 206.298,
+   "text": "Okay. Let's keep an eye on it, and report back if the contingency drops below twenty thousand."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 206.804,
+   "end": 211.999,
+   "text": "One open question from my side. Are we keeping the old furniture, or selling it?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 212.218,
+   "end": 215.068,
+   "text": "Good question. I don't think we've decided."
+  },
+  {
+   "speaker": "Kate",
+   "start": 215.23,
+   "end": 220.368,
+   "text": "Some of it could go to the Sydney office. They asked for desks last year."
+  },
+  {
+   "speaker": "Emily",
+   "start": 220.645,
+   "end": 225.475,
+   "text": "Let's find out what Sydney actually needs before we decide. Can someone ask them?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 225.812,
+   "end": 228.522,
+   "text": "I'll ask the Sydney office manager this week."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 228.827,
+   "end": 235.657,
+   "text": "Thank you. Last item, communication to staff. I'd like to send an update before Christmas."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 235.935,
+   "end": 240.224,
+   "text": "I can write the first draft, and include the seating survey results."
+  },
+  {
+   "speaker": "Emily",
+   "start": 240.72,
+   "end": 247.08,
+   "text": "Perfect. Let me summarise the actions. Frank chases the landlord about the fibre access form tomorrow."
+  },
+  {
+   "speaker": "Frank",
+   "start": 247.508,
+   "end": 255.13,
+   "text": "Thandi accepts the furniture quote, sends the purchase order by Wednesday, and asks Sydney about the old furniture."
+  },
+  {
+   "speaker": "Emily",
+   "start": 255.382,
+   "end": 263.102,
+   "text": "James drafts the seating plan by the twentieth of January and writes the staff update. Olivia follows up on the lease extension next week."
+  },
+  {
+   "speaker": "Frank",
+   "start": 263.559,
+   "end": 267.171,
+   "text": "And Raj orders the fibre as soon as the form is signed."
+  },
+  {
+   "speaker": "Priya",
+   "start": 267.605,
+   "end": 268.727,
+   "text": "Yes, the same day."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 269.061,
+   "end": 273.021,
+   "text": "Great. Thanks everyone. We'll meet again in two weeks."
+  },
+  {
+   "speaker": "James",
+   "start": 273.645,
+   "end": 282.135,
+   "text": "Morning everyone. Let's get started, we've got a lot to cover before the launch. Raj, do you want to begin with the release status?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 282.286,
+   "end": 289.389,
+   "text": "Sure. The release candidate went out to the beta group on Monday. We've had about three hundred people install it so far."
+  },
+  {
+   "speaker": "Emily",
+   "start": 289.991,
+   "end": 296.331,
+   "text": "Crash rates are low, under half a percent, but there's one issue with the sync on older tablets that we need to fix."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 296.632,
+   "end": 298.752,
+   "text": "How serious is the tablet issue?"
+  },
+  {
+   "speaker": "Emily",
+   "start": 299.456,
+   "end": 305.776,
+   "text": "It only happens when the battery saver is on. The sync stops in the background and doesn't resume until you open the app."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 306.206,
+   "end": 310.306,
+   "text": "That sounds like the background limits changed in the last system update."
+  },
+  {
+   "speaker": "Frank",
+   "start": 310.488,
+   "end": 318.198,
+   "text": "Yes, exactly, that's our theory too. I think we can work around it, but it'll take a few days."
+  },
+  {
+   "speaker": "Raj",
+   "start": 318.852,
+   "end": 322.202,
+   "text": "Okay. Is that a blocker for the launch on the twentieth?"
+  },
+  {
+   "speaker": "James",
+   "start": 322.036,
+   "end": 329.089,
+   "text": "I don't think so. It affects maybe two percent of users, and they don't lose any data. It just syncs later."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 329.817,
+   "end": 336.377,
+   "text": "From the support side, I'd rather we ship with a known issue than delay. We can put a note in the help centre."
+  },
+  {
+   "speaker": "Emily",
+   "start": 337.097,
+   "end": 343.003,
+   "text": "Agreed. Let's keep the launch date of October the twentieth, and treat the tablet sync as a fast follow."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 343.712,
+   "end": 346.992,
+   "text": "Okay, I'll plan the fix for the first patch release."
+  },
+  {
+   "speaker": "James",
+   "start": 347.193,
+   "end": 350.111,
+   "text": "James, where are we on the marketing assets?"
+  },
+  {
+   "speaker": "Emily",
+   "start": 350.272,
+   "end": 356.362,
+   "text": "The landing page is done and the screenshots are being updated this week. The launch video is the one I'm worried about."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 356.915,
+   "end": 357.735,
+   "text": "Why is that?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 358.489,
+   "end": 366.056,
+   "text": "The agency sent the first cut yesterday and it uses the old onboarding screens. They need the new ones from design."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 366.397,
+   "end": 367.467,
+   "text": "Mm-hm."
+  },
+  {
+   "speaker": "Kate",
+   "start": 368.23,
+   "end": 374.442,
+   "text": "If they get the new screens by Thursday, they can still deliver the final version by the fifteenth."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 375.233,
+   "end": 377.093,
+   "text": "Who owns getting them the screens?"
+  },
+  {
+   "speaker": "James",
+   "start": 377.556,
+   "end": 382.734,
+   "text": "That's me. I'll get the exported screens from the design team and send them over by Thursday."
+  },
+  {
+   "speaker": "Raj",
+   "start": 383.365,
+   "end": 387.335,
+   "text": "Great. Niamh, how is support preparing for the launch?"
+  },
+  {
+   "speaker": "Priya",
+   "start": 388.085,
+   "end": 393.56,
+   "text": "We've written twelve new help articles, and the team has done two training sessions on the new features."
+  },
+  {
+   "speaker": "Raj",
+   "start": 393.876,
+   "end": 399.916,
+   "text": "My main concern is staffing. Last launch, our ticket volume tripled in the first week."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 400.575,
+   "end": 402.595,
+   "text": "Do we have extra people lined up?"
+  },
+  {
+   "speaker": "Emily",
+   "start": 403.215,
+   "end": 409.588,
+   "text": "Two people from the sales team volunteered to help with the chat queue. I'd like one more, ideally someone technical."
+  },
+  {
+   "speaker": "Raj",
+   "start": 410.242,
+   "end": 417.012,
+   "text": "I could lend you one of the engineers for the first three days. Maybe Tom, he knows the sync code really well."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 416.682,
+   "end": 418.722,
+   "text": "That would be brilliant, thank you."
+  },
+  {
+   "speaker": "Raj",
+   "start": 418.89,
+   "end": 422.21,
+   "text": "Good. Raj, can you confirm with Tom this week?"
+  },
+  {
+   "speaker": "Emily",
+   "start": 422.698,
+   "end": 424.548,
+   "text": "Yes, I'll ask him today."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 425.262,
+   "end": 432.322,
+   "text": "Next, budget. We're about fifteen thousand dollars over on the launch budget, mostly because of the video."
+  },
+  {
+   "speaker": "Oliver",
+   "start": 432.171,
+   "end": 438.121,
+   "text": "Some of that is the reshoot. The original agency quote didn't include the second day of filming."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 438.646,
+   "end": 443.566,
+   "text": "Can we cover it from the events budget? The conference in December was cancelled."
+  },
+  {
+   "speaker": "Emily",
+   "start": 443.37,
+   "end": 446.745,
+   "text": "I think so, but finance needs to approve moving the money."
+  },
+  {
+   "speaker": "Raj",
+   "start": 447.226,
+   "end": 453.575,
+   "text": "Then I'll raise it with finance on Friday. If they say no, we'll cut the paid social campaign instead."
+  },
+  {
+   "speaker": "Emily",
+   "start": 453.884,
+   "end": 459.874,
+   "text": "Can I ask one question about the launch day itself? Are we doing the announcement in the morning or the afternoon?"
+  },
+  {
+   "speaker": "Olivia",
+   "start": 460.095,
+   "end": 468.125,
+   "text": "That's not decided yet. The press team wants the morning, but our users are mostly in the US, so the afternoon might be better."
+  },
+  {
+   "speaker": "Oliver",
+   "start": 468.858,
+   "end": 475.238,
+   "text": "From an engineering view, the morning is better. If something goes wrong, we have the whole day to fix it."
+  },
+  {
+   "speaker": "Raj",
+   "start": 475.502,
+   "end": 481.595,
+   "text": "That's a fair point. Let's leave it open for now, and I'll decide with the press team by Monday."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 481.893,
+   "end": 491.043,
+   "text": "Okay, let me summarise. Launch stays on the twentieth. Raj fixes the tablet sync in the first patch and confirms Tom for support."
+  },
+  {
+   "speaker": "Raj",
+   "start": 491.471,
+   "end": 499.877,
+   "text": "James sends the new screens to the agency by Thursday. I'll talk to finance on Friday and decide the announcement time by Monday."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 500.423,
+   "end": 503.743,
+   "text": "And I'll publish the help articles the day before launch."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 504.022,
+   "end": 507.772,
+   "text": "Perfect. Thanks everyone, same time next week."
+  },
+  {
+   "speaker": "Kate",
+   "start": 508.322,
+   "end": 515.643,
+   "text": "Thanks for making time, James. I wanted to go through the cloud hosting renewal before the end of the month."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 515.866,
+   "end": 522.396,
+   "text": "Sure. I had a look at the quote they sent on Friday. It's about eighteen percent higher than last year."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 522.623,
+   "end": 527.223,
+   "text": "That's more than I expected. Did they explain where the increase comes from?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 527.634,
+   "end": 533.8,
+   "text": "Mostly storage. Our backups have doubled since March, and they've moved us onto a new pricing tier."
+  },
+  {
+   "speaker": "Priya",
+   "start": 533.999,
+   "end": 534.469,
+   "text": "Right."
+  },
+  {
+   "speaker": "Emily",
+   "start": 535.05,
+   "end": 540.438,
+   "text": "The compute part is actually a little cheaper, because we committed to reserved instances last spring."
+  },
+  {
+   "speaker": "James",
+   "start": 541.043,
+   "end": 545.753,
+   "text": "Okay. So if we cleaned up the old backups, how much of that would we save?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 546.437,
+   "end": 553.941,
+   "text": "Probably a third of the increase. We keep ninety days of snapshots, and nobody has restored anything older than two weeks."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 554.154,
+   "end": 562.374,
+   "text": "Then let's cut the retention to thirty days. Can you check with the security team that thirty days still meets the audit requirements?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 563.154,
+   "end": 567.839,
+   "text": "Yes, I'll ask Priya today. She did the last audit, so she'll know."
+  },
+  {
+   "speaker": "Frank",
+   "start": 568.129,
+   "end": 574.137,
+   "text": "Great. And what about the alternative provider? Did you get a number from them?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 574.84,
+   "end": 582.49,
+   "text": "I did. They're about ten percent cheaper on paper, but the migration would take at least six weeks of engineering time."
+  },
+  {
+   "speaker": "Frank",
+   "start": 582.69,
+   "end": 588.095,
+   "text": "Six weeks is a lot. We don't have that before the product launch in November."
+  },
+  {
+   "speaker": "Oliver",
+   "start": 588.265,
+   "end": 594.665,
+   "text": "Exactly. My suggestion is to renew for one year, not three, and revisit the move in the spring."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 594.912,
+   "end": 601.662,
+   "text": "I agree. Let's renew for one year. I'll sign the contract once the retention change is confirmed."
+  },
+  {
+   "speaker": "Kate",
+   "start": 602.014,
+   "end": 602.985,
+   "text": "Sounds good."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 603.174,
+   "end": 609.574,
+   "text": "The other thing I wanted to talk about is hiring. How are the interviews for the platform engineer going?"
+  },
+  {
+   "speaker": "Kate",
+   "start": 609.767,
+   "end": 618.766,
+   "text": "We've had four candidates so far. Two were strong, and one of them, Marco, has done exactly this kind of migration before."
+  },
+  {
+   "speaker": "Emily",
+   "start": 619.515,
+   "end": 622.508,
+   "text": "That would be useful if we do move providers next year."
+  },
+  {
+   "speaker": "Priya",
+   "start": 622.679,
+   "end": 627.828,
+   "text": "That's what I thought. I'd like to bring him in for the final round next week, if you can join."
+  },
+  {
+   "speaker": "Frank",
+   "start": 627.443,
+   "end": 633.005,
+   "text": "I can do Tuesday or Thursday afternoon. Wednesday is full of budget meetings."
+  },
+  {
+   "speaker": "Oliver",
+   "start": 633.382,
+   "end": 638.562,
+   "text": "Let's say Thursday at two. I'll send the invite and the take-home task results."
+  },
+  {
+   "speaker": "James",
+   "start": 639.27,
+   "end": 642.619,
+   "text": "Perfect. Is there anything blocking you that I can help with?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 643.185,
+   "end": 648.835,
+   "text": "Just one thing. The finance team still hasn't approved the monitoring tool we asked for in August."
+  },
+  {
+   "speaker": "Emily",
+   "start": 649.15,
+   "end": 654.963,
+   "text": "I'll chase that with Daniel in finance. I think it's stuck because the request went to the wrong cost centre."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 655.64,
+   "end": 657.878,
+   "text": "That would explain it. Thanks."
+  },
+  {
+   "speaker": "Priya",
+   "start": 658.313,
+   "end": 665.639,
+   "text": "Okay, so to recap. You'll confirm the thirty day retention with Priya, and send me the updated quote by Friday."
+  },
+  {
+   "speaker": "Emily",
+   "start": 665.934,
+   "end": 670.072,
+   "text": "Yes. And I'll set up the final interview with Marco for Thursday at two."
+  },
+  {
+   "speaker": "James",
+   "start": 670.241,
+   "end": 676.015,
+   "text": "And I'll sort out the monitoring tool approval. Thanks, James, that was really helpful."
+  },
+  {
+   "speaker": "Emily",
+   "start": 675.772,
+   "end": 677.911,
+   "text": "Thanks, Sarah. Talk soon."
+  }
+ ]
+}

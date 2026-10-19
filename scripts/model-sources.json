@@ -1,0 +1,189 @@
+{
+  "notes": "Pinned sources for on-device models and native build libraries. sha256 null means the publisher gives no checksum; fetch-models.py records the hash of the first download and marks it pinnedOnFirstDownload. phoneFiles lists the files, relative to models/<id>/, that the app needs on the phone; fetch-models.py writes them with sizes and checksums to app/src/main/assets/model-registry.json.",
+  "buildLibraries": [
+    {
+      "id": "sherpa-onnx-aar",
+      "licence": "Apache-2.0",
+      "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/v1.13.8/sherpa-onnx-static-link-onnxruntime-1.13.8.aar",
+      "sha256": "b22c3fc1b6a45666d28892bb2f7694beeb77a8362d7ebd77c1a5431ec9435471",
+      "size": 38691998,
+      "saveAs": "app/libs/sherpa-onnx-static-link-onnxruntime-1.13.8.aar"
+    }
+  ],
+  "models": [
+    {
+      "id": "silero-vad",
+      "purpose": "Voice activity detection",
+      "licence": "MIT",
+      "downloads": [
+        {
+          "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/silero_vad.onnx",
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6",
+          "size": 643854,
+          "type": "file",
+          "saveAs": "silero_vad.onnx"
+        }
+      ],
+      "phoneFiles": [
+        "silero_vad.onnx"
+      ]
+    },
+    {
+      "id": "parakeet-tdt-0.6b-v2-int8",
+      "purpose": "English speech to text",
+      "licence": "CC-BY-4.0",
+      "downloads": [
+        {
+          "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8.tar.bz2",
+          "sha256": "157c157bc51155e03e37d2466522a3a737dd9c72bb25f36eb18912964161e1ad",
+          "size": 482468385,
+          "type": "tar.bz2",
+          "stripComponents": 1
+        }
+      ],
+      "phoneFiles": [
+        "encoder.int8.onnx",
+        "decoder.int8.onnx",
+        "joiner.int8.onnx",
+        "tokens.txt"
+      ]
+    },
+    {
+      "id": "nemotron-3-diarization",
+      "purpose": "Who spoke when, up to 8 speakers",
+      "licence": "OpenMDW-1.1",
+      "downloads": [
+        {
+          "url": "https://huggingface.co/NealCaren/Nemotron-3-Diarization-ONNX/resolve/46642c09b3bd014c5ceb19d20524fa2f1dc27dee/embed.onnx",
+          "sha256": "2e8796e42286abe2e2d7d44a97fab7e5a7d06b2d4cbee82a3a0f730cfff84a33",
+          "size": 2102458,
+          "type": "file",
+          "saveAs": "embed.onnx"
+        },
+        {
+          "url": "https://huggingface.co/NealCaren/Nemotron-3-Diarization-ONNX/resolve/46642c09b3bd014c5ceb19d20524fa2f1dc27dee/step_int8.onnx",
+          "sha256": "1f18a5aed4909677d3618c9e6ed6e3003720b6d6e766f0f8b337aa4fcb0a9d2a",
+          "size": 103325385,
+          "type": "file",
+          "saveAs": "step_int8.onnx"
+        },
+        {
+          "url": "https://huggingface.co/NealCaren/Nemotron-3-Diarization-ONNX/resolve/46642c09b3bd014c5ceb19d20524fa2f1dc27dee/mel_filters.bin",
+          "sha256": "bce5ec5f194a5913f6508cee5a85512e7bad2352db8fc28f5c6ff75af8b09137",
+          "size": 131584,
+          "type": "file",
+          "saveAs": "mel_filters.bin"
+        },
+        {
+          "url": "https://huggingface.co/NealCaren/Nemotron-3-Diarization-ONNX/resolve/46642c09b3bd014c5ceb19d20524fa2f1dc27dee/silence_embeds.bin",
+          "sha256": "d4417b3c0eabdf7c47032fac2b5b5a7ee83d819a6ddda8fd8eaf74e2b5cc4ac7",
+          "size": 2048,
+          "type": "file",
+          "saveAs": "silence_embeds.bin"
+        },
+        {
+          "url": "https://huggingface.co/NealCaren/Nemotron-3-Diarization-ONNX/resolve/46642c09b3bd014c5ceb19d20524fa2f1dc27dee/LICENSE",
+          "sha256": "2ab44b68365473c112f5092211a38f231cb23e50de68b75a13369adbd76a74df",
+          "size": 2619,
+          "type": "file",
+          "saveAs": "LICENSE",
+          "pinnedOnFirstDownload": true
+        }
+      ],
+      "phoneFiles": [
+        "embed.onnx",
+        "step_int8.onnx",
+        "mel_filters.bin",
+        "silence_embeds.bin"
+      ]
+    },
+    {
+      "id": "pyannote-segmentation-3.0",
+      "purpose": "Fallback speaker segmentation for 9 or more speakers",
+      "licence": "MIT",
+      "downloads": [
+        {
+          "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-segmentation-models/sherpa-onnx-pyannote-segmentation-3-0.tar.bz2",
+          "sha256": "24615ee884c897d9d2ba09bb4d30da6bb1b15e685065962db5b02e76e4996488",
+          "size": 6958444,
+          "type": "tar.bz2",
+          "stripComponents": 1,
+          "pinnedOnFirstDownload": true
+        }
+      ],
+      "phoneFiles": [
+        "model.onnx"
+      ]
+    },
+    {
+      "id": "wespeaker-resnet34-lm",
+      "purpose": "Speaker embeddings for voiceprints and fallback diarization",
+      "licence": "WeSpeaker (code Apache-2.0; check model terms)",
+      "downloads": [
+        {
+          "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-recongition-models/wespeaker_en_voxceleb_resnet34_LM.onnx",
+          "sha256": "e9848563da86f263117134dfd7ad63c92355b37de492b55e325400c9d9c39012",
+          "size": 26530550,
+          "type": "file",
+          "saveAs": "wespeaker_en_voxceleb_resnet34_LM.onnx",
+          "pinnedOnFirstDownload": true
+        }
+      ],
+      "phoneFiles": [
+        "wespeaker_en_voxceleb_resnet34_LM.onnx"
+      ]
+    },
+    {
+      "id": "embeddinggemma-2-text-270m",
+      "purpose": "Search embeddings",
+      "licence": "Apache-2.0",
+      "downloads": [
+        {
+          "url": "https://huggingface.co/litert-community/embeddinggemma-2-text-270m-litert-lm/resolve/9be6e8b90982095dc05c2bd162e4b954ee4dbac7/embeddinggemma-2-text-270m.litertlm",
+          "sha256": "2d079ee2f6f066b1f368e8d7c819f55214eaef1d0513b312321901f30ab286fb",
+          "size": 164626432,
+          "type": "file",
+          "saveAs": "embeddinggemma-2-text-270m.litertlm"
+        }
+      ],
+      "phoneFiles": [
+        "embeddinggemma-2-text-270m.litertlm"
+      ]
+    },
+    {
+      "id": "gemma-4-e4b",
+      "purpose": "Summaries, action items and questions",
+      "licence": "Apache-2.0",
+      "downloads": [
+        {
+          "url": "https://huggingface.co/litert-community/gemma-4-E4B-it-litert-lm/resolve/2eee7ac325f20eb8c9ac1d0e972f7c84663062da/gemma-4-E4B-it.litertlm",
+          "sha256": "0b2a8980ce155fd97673d8e820b4d29d9c7d99b8fa6806f425d969b145bd52e0",
+          "size": 3659530240,
+          "type": "file",
+          "saveAs": "gemma-4-E4B-it.litertlm"
+        }
+      ],
+      "phoneFiles": [
+        "gemma-4-E4B-it.litertlm"
+      ]
+    },
+    {
+      "id": "gemma-4-e2b",
+      "purpose": "Faster notes and answers (optional)",
+      "licence": "Apache-2.0",
+      "optional": true,
+      "downloads": [
+        {
+          "url": "https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/resolve/b3ca0d2f076785a8f4b2219ddbd2bdb99954eae1/gemma-4-E2B-it.litertlm",
+          "sha256": "181938105e0eefd105961417e8da75903eacda102c4fce9ce90f50b97139a63c",
+          "size": 2588147712,
+          "type": "file",
+          "saveAs": "gemma-4-E2B-it.litertlm"
+        }
+      ],
+      "phoneFiles": [
+        "gemma-4-E2B-it.litertlm"
+      ]
+    }
+  ]
+}

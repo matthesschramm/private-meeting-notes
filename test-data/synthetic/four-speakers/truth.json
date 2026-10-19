@@ -1,0 +1,264 @@
+{
+ "title": "Weekly product sync",
+ "durationSec": 227.137,
+ "speakers": [
+  "Olivia",
+  "Raj",
+  "James",
+  "Niamh"
+ ],
+ "segments": [
+  {
+   "speaker": "Olivia",
+   "start": 0.6,
+   "end": 8.497,
+   "text": "Morning everyone. Let's get started, we've got a lot to cover before the launch. Raj, do you want to begin with the release status?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 8.312,
+   "end": 15.772,
+   "text": "Sure. The release candidate went out to the beta group on Monday. We've had about three hundred people install it so far."
+  },
+  {
+   "speaker": "Raj",
+   "start": 16.272,
+   "end": 23.332,
+   "text": "Crash rates are low, under half a percent, but there's one issue with the sync on older tablets that we need to fix."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 23.826,
+   "end": 25.74,
+   "text": "How serious is the tablet issue?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 26.232,
+   "end": 33.542,
+   "text": "It only happens when the battery saver is on. The sync stops in the background and doesn't resume until you open the app."
+  },
+  {
+   "speaker": "James",
+   "start": 32.942,
+   "end": 37.003,
+   "text": "That sounds like the background limits changed in the last system update."
+  },
+  {
+   "speaker": "Raj",
+   "start": 37.774,
+   "end": 44.623,
+   "text": "Yes, exactly, that's our theory too. I think we can work around it, but it'll take a few days."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 45.087,
+   "end": 48.127,
+   "text": "Okay. Is that a blocker for the launch on the twentieth?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 48.4,
+   "end": 56.04,
+   "text": "I don't think so. It affects maybe two percent of users, and they don't lose any data. It just syncs later."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 56.32,
+   "end": 62.517,
+   "text": "From the support side, I'd rather we ship with a known issue than delay. We can put a note in the help centre."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 62.3,
+   "end": 68.265,
+   "text": "Agreed. Let's keep the launch date of October the twentieth, and treat the tablet sync as a fast follow."
+  },
+  {
+   "speaker": "Raj",
+   "start": 68.547,
+   "end": 71.817,
+   "text": "Okay, I'll plan the fix for the first patch release."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 72.192,
+   "end": 74.837,
+   "text": "James, where are we on the marketing assets?"
+  },
+  {
+   "speaker": "James",
+   "start": 75.602,
+   "end": 82.066,
+   "text": "The landing page is done and the screenshots are being updated this week. The launch video is the one I'm worried about."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 82.586,
+   "end": 83.418,
+   "text": "Why is that?"
+  },
+  {
+   "speaker": "James",
+   "start": 83.654,
+   "end": 90.42,
+   "text": "The agency sent the first cut yesterday and it uses the old onboarding screens. They need the new ones from design."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 89.92,
+   "end": 90.954,
+   "text": "Mm-hm."
+  },
+  {
+   "speaker": "James",
+   "start": 91.251,
+   "end": 96.781,
+   "text": "If they get the new screens by Thursday, they can still deliver the final version by the fifteenth."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 97.251,
+   "end": 99.011,
+   "text": "Who owns getting them the screens?"
+  },
+  {
+   "speaker": "James",
+   "start": 99.773,
+   "end": 104.951,
+   "text": "That's me. I'll get the exported screens from the design team and send them over by Thursday."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 105.467,
+   "end": 108.934,
+   "text": "Great. Niamh, how is support preparing for the launch?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 109.404,
+   "end": 115.164,
+   "text": "We've written twelve new help articles, and the team has done two training sessions on the new features."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 115.899,
+   "end": 121.759,
+   "text": "My main concern is staffing. Last launch, our ticket volume tripled in the first week."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 122.458,
+   "end": 124.318,
+   "text": "Do we have extra people lined up?"
+  },
+  {
+   "speaker": "Niamh",
+   "start": 125.037,
+   "end": 131.847,
+   "text": "Two people from the sales team volunteered to help with the chat queue. I'd like one more, ideally someone technical."
+  },
+  {
+   "speaker": "Raj",
+   "start": 132.572,
+   "end": 139.342,
+   "text": "I could lend you one of the engineers for the first three days. Maybe Tom, he knows the sync code really well."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 139.544,
+   "end": 141.538,
+   "text": "That would be brilliant, thank you."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 141.917,
+   "end": 145.037,
+   "text": "Good. Raj, can you confirm with Tom this week?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 145.227,
+   "end": 147.047,
+   "text": "Yes, I'll ask him today."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 147.285,
+   "end": 153.663,
+   "text": "Next, budget. We're about fifteen thousand dollars over on the launch budget, mostly because of the video."
+  },
+  {
+   "speaker": "James",
+   "start": 154.056,
+   "end": 159.388,
+   "text": "Some of that is the reshoot. The original agency quote didn't include the second day of filming."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 159.972,
+   "end": 164.281,
+   "text": "Can we cover it from the events budget? The conference in December was cancelled."
+  },
+  {
+   "speaker": "James",
+   "start": 164.095,
+   "end": 167.559,
+   "text": "I think so, but finance needs to approve moving the money."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 168.312,
+   "end": 174.267,
+   "text": "Then I'll raise it with finance on Friday. If they say no, we'll cut the paid social campaign instead."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 174.73,
+   "end": 181.386,
+   "text": "Can I ask one question about the launch day itself? Are we doing the announcement in the morning or the afternoon?"
+  },
+  {
+   "speaker": "Olivia",
+   "start": 181.785,
+   "end": 189.147,
+   "text": "That's not decided yet. The press team wants the morning, but our users are mostly in the US, so the afternoon might be better."
+  },
+  {
+   "speaker": "Raj",
+   "start": 189.804,
+   "end": 196.414,
+   "text": "From an engineering view, the morning is better. If something goes wrong, we have the whole day to fix it."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 196.127,
+   "end": 201.469,
+   "text": "That's a fair point. Let's leave it open for now, and I'll decide with the press team by Monday."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 201.817,
+   "end": 210.202,
+   "text": "Okay, let me summarise. Launch stays on the twentieth. Raj fixes the tablet sync in the first patch and confirms Tom for support."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 210.642,
+   "end": 217.991,
+   "text": "James sends the new screens to the agency by Thursday. I'll talk to finance on Friday and decide the announcement time by Monday."
+  },
+  {
+   "speaker": "Niamh",
+   "start": 218.66,
+   "end": 221.82,
+   "text": "And I'll publish the help articles the day before launch."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 222.452,
+   "end": 226.137,
+   "text": "Perfect. Thanks everyone, same time next week."
+  }
+ ]
+}

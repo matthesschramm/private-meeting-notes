@@ -1,0 +1,42 @@
+# Private toolchain and downloads (installed by scripts/setup-tooling.sh)
+/.tooling/
+
+# On-device models: multi-GB, pushed to the phone, never committed
+/models/
+
+# Native build libraries fetched by scripts/fetch-models.py
+/app/libs/*.aar
+
+# Gradle and Android build outputs
+.gradle/
+.kotlin/
+build/
+/local.properties
+/captures/
+*.apk
+*.aab
+
+# Signing material
+/signing/
+*.jks
+*.keystore
+/keystore.properties
+
+# Test recordings and transcripts that may contain real meetings
+/test-data/private/
+
+# Benchmark outputs pulled from the phone, and generated test audio
+/test-data/bench-results/
+/test-data/synthetic/*/*.wav
+/test-data/synthetic/*/*.f32
+/test-data/synthetic/*/long.truth.*
+/test-data/synthetic/*/long-*.truth.*
+
+# Session files ONNX Runtime's telemetry writes when it is not switched off
+:memory:*
+
+# macOS
+.DS_Store
+
+# Test audio converted for the import check
+/test-data/import/

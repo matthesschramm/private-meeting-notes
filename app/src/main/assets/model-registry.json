@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "silero-vad",
+      "purpose": "Voice activity detection",
+      "licence": "MIT",
+      "optional": false,
+      "files": [
+        {
+          "path": "silero-vad/silero_vad.onnx",
+          "size": 643854,
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+        }
+      ]
+    },
+    {
+      "id": "parakeet-tdt-0.6b-v2-int8",
+      "purpose": "English speech to text",
+      "licence": "CC-BY-4.0",
+      "optional": false,
+      "files": [
+        {
+          "path": "parakeet-tdt-0.6b-v2-int8/encoder.int8.onnx",
+          "size": 652184296,
+          "sha256": "a32b12d17bbbc309d0686fbbcc2987b5e9b8333a7da83fa6b089f0a2acd651ab"
+        },
+        {
+          "path": "parakeet-tdt-0.6b-v2-int8/decoder.int8.onnx",
+          "size": 7257753,
+          "sha256": "b6bb64963457237b900e496ee9994b59294526439fbcc1fecf705b31a15c6b4e"
+        },
+        {
+          "path": "parakeet-tdt-0.6b-v2-int8/joiner.int8.onnx",
+          "size": 1739080,
+          "sha256": "7946164367946e7f9f29a122407c3252b680dbae9a51343eb2488d057c3c43d2"
+        },
+        {
+          "path": "parakeet-tdt-0.6b-v2-int8/tokens.txt",
+          "size": 9384,
+          "sha256": "ec182b70dd42113aff6c5372c75cac58c952443eb22322f57bbd7f53977d497d"
+        }
+      ]
+    },
+    {
+      "id": "nemotron-3-diarization",
+      "purpose": "Who spoke when, up to 8 speakers",
+      "licence": "OpenMDW-1.1",
+      "optional": false,
+      "files": [
+        {
+          "path": "nemotron-3-diarization/embed.onnx",
+          "size": 2102458,
+          "sha256": "2e8796e42286abe2e2d7d44a97fab7e5a7d06b2d4cbee82a3a0f730cfff84a33"
+        },
+        {
+          "path": "nemotron-3-diarization/step_int8.onnx",
+          "size": 103325385,
+          "sha256": "1f18a5aed4909677d3618c9e6ed6e3003720b6d6e766f0f8b337aa4fcb0a9d2a"
+        },
+        {
+          "path": "nemotron-3-diarization/mel_filters.bin",
+          "size": 131584,
+          "sha256": "bce5ec5f194a5913f6508cee5a85512e7bad2352db8fc28f5c6ff75af8b09137"
+        },
+        {
+          "path": "nemotron-3-diarization/silence_embeds.bin",
+          "size": 2048,
+          "sha256": "d4417b3c0eabdf7c47032fac2b5b5a7ee83d819a6ddda8fd8eaf74e2b5cc4ac7"
+        }
+      ]
+    },
+    {
+      "id": "pyannote-segmentation-3.0",
+      "purpose": "Fallback speaker segmentation for 9 or more speakers",
+      "licence": "MIT",
+      "optional": false,
+      "files": [
+        {
+          "path": "pyannote-segmentation-3.0/model.onnx",
+          "size": 5992913,
+          "sha256": "220ad67ca923bef2fa91f2390c786097bf305bceb5e261d4af67b38e938e1079"
+        }
+      ]
+    },
+    {
+      "id": "wespeaker-resnet34-lm",
+      "purpose": "Speaker embeddings for voiceprints and fallback diarization",
+      "licence": "WeSpeaker (code Apache-2.0; check model terms)",
+      "optional": false,
+      "files": [
+        {
+          "path": "wespeaker-resnet34-lm/wespeaker_en_voxceleb_resnet34_LM.onnx",
+          "size": 26530550,
+          "sha256": "e9848563da86f263117134dfd7ad63c92355b37de492b55e325400c9d9c39012"
+        }
+      ]
+    },
+    {
+      "id": "embeddinggemma-2-text-270m",
+      "purpose": "Search embeddings",
+      "licence": "Apache-2.0",
+      "optional": false,
+      "files": [
+        {
+          "path": "embeddinggemma-2-text-270m/embeddinggemma-2-text-270m.litertlm",
+          "size": 164626432,
+          "sha256": "2d079ee2f6f066b1f368e8d7c819f55214eaef1d0513b312321901f30ab286fb"
+        }
+      ]
+    },
+    {
+      "id": "gemma-4-e4b",
+      "purpose": "Summaries, action items and questions",
+      "licence": "Apache-2.0",
+      "optional": false,
+      "files": [
+        {
+          "path": "gemma-4-e4b/gemma-4-E4B-it.litertlm",
+          "size": 3659530240,
+          "sha256": "0b2a8980ce155fd97673d8e820b4d29d9c7d99b8fa6806f425d969b145bd52e0"
+        }
+      ]
+    },
+    {
+      "id": "gemma-4-e2b",
+      "purpose": "Faster notes and answers (optional)",
+      "licence": "Apache-2.0",
+      "optional": true,
+      "files": [
+        {
+          "path": "gemma-4-e2b/gemma-4-E2B-it.litertlm",
+          "size": 2588147712,
+          "sha256": "181938105e0eefd105961417e8da75903eacda102c4fce9ce90f50b97139a63c"
+        }
+      ]
+    }
+  ]
+}

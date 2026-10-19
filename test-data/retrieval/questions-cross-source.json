@@ -1,0 +1,9 @@
+{
+  "notes": "The questions from questions.json whose answer is split between a document and a meeting, for quick prompt checks.",
+  "meetings": ["two-speakers", "four-speakers", "six-speakers"],
+  "documents": ["travel-policy.md", "office-move-budget-memo.docx", "launch-plan.pdf"],
+  "questions": [
+    {"q": "Which engineer will help the support team at launch?", "sources": ["four-speakers"], "answer": [["tom"]]},
+    {"q": "Is the office move contingency still above the minimum the board set?", "sources": ["six-speakers", "office-move-budget-memo.docx"], "answer": [["30,000", "thirty thousand", "30 000", "30k"], ["20,000", "twenty thousand", "20 000", "20k"]]}
+  ]
+}

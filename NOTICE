@@ -1,0 +1,12 @@
+Private Meeting Notes
+Copyright 2026 Matthes Schramm
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The Nemotron 3 Diarization pipeline in app/src/main/java/dev/matthes/privatemeetingnotes/diarization/
+(MelFrontEnd.kt, NemotronDiarizer.kt, SpeakerCache.kt) is a Kotlin implementation that follows the Nemotron 3
+Diarization model code in Hugging Face Transformers (https://github.com/huggingface/transformers),
+Copyright The HuggingFace Team, licensed under the Apache License, Version 2.0.
+
+Model files and third-party libraries are not part of this repository. They are downloaded from their publishers
+under their own licences; see THIRD_PARTY_NOTICES.md.

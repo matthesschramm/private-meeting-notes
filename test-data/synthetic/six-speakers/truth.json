@@ -1,0 +1,332 @@
+{
+ "title": "Office move steering committee",
+ "durationSec": 268.363,
+ "speakers": [
+  "Emily",
+  "Frank",
+  "Thandi",
+  "Olivia",
+  "James",
+  "Raj"
+ ],
+ "segments": [
+  {
+   "speaker": "Emily",
+   "start": 0.6,
+   "end": 8.52,
+   "text": "Good afternoon, everyone. This is the steering committee for the office move, and we have six items today. Let's start with the timeline."
+  },
+  {
+   "speaker": "Frank",
+   "start": 8.905,
+   "end": 16.852,
+   "text": "The landlord has confirmed we can get the keys on the first of February. The fit-out will take about eight weeks after that."
+  },
+  {
+   "speaker": "Emily",
+   "start": 17.18,
+   "end": 19.284,
+   "text": "So we'd move in at the start of April?"
+  },
+  {
+   "speaker": "Frank",
+   "start": 19.692,
+   "end": 25.951,
+   "text": "Early April, yes, assuming the council approves the plans for the kitchen and the bathrooms."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 25.551,
+   "end": 28.071,
+   "text": "When do we expect the council decision?"
+  },
+  {
+   "speaker": "Frank",
+   "start": 28.445,
+   "end": 33.2,
+   "text": "They said four to six weeks. We submitted the plans last Monday."
+  },
+  {
+   "speaker": "Emily",
+   "start": 33.643,
+   "end": 37.673,
+   "text": "Okay. Olivia, what does that mean for the lease on the current office?"
+  },
+  {
+   "speaker": "Olivia",
+   "start": 38.061,
+   "end": 44.874,
+   "text": "Our current lease ends on the thirty first of March. We can extend month to month, but the rent goes up by twenty percent."
+  },
+  {
+   "speaker": "James",
+   "start": 45.415,
+   "end": 48.187,
+   "text": "Twenty percent is steep. Is that negotiable?"
+  },
+  {
+   "speaker": "Olivia",
+   "start": 48.426,
+   "end": 55.365,
+   "text": "I've asked. They'll come back to me next week. Worst case, one extra month costs us about nine thousand dollars."
+  },
+  {
+   "speaker": "Emily",
+   "start": 55.124,
+   "end": 59.264,
+   "text": "Let's plan for one extra month as a contingency, and hope we don't need it."
+  },
+  {
+   "speaker": "Raj",
+   "start": 59.497,
+   "end": 64.037,
+   "text": "Can I raise the network setup? That's the thing most likely to delay us."
+  },
+  {
+   "speaker": "Emily",
+   "start": 64.571,
+   "end": 65.861,
+   "text": "Go ahead, Raj."
+  },
+  {
+   "speaker": "Raj",
+   "start": 66.335,
+   "end": 74.541,
+   "text": "The building has fibre, but the provider needs ten weeks' notice to connect us. If we order it after the keys, we'll miss April."
+  },
+  {
+   "speaker": "Frank",
+   "start": 75.292,
+   "end": 77.687,
+   "text": "Can we order it before we have the keys?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 78.065,
+   "end": 84.985,
+   "text": "Yes, if the landlord signs the access form. I sent it to them on Tuesday, but I haven't heard back."
+  },
+  {
+   "speaker": "Frank",
+   "start": 85.682,
+   "end": 91.024,
+   "text": "I'll chase the landlord tomorrow. I'm meeting their property manager anyway."
+  },
+  {
+   "speaker": "Raj",
+   "start": 91.541,
+   "end": 96.479,
+   "text": "Thanks, Frank. If we get the form signed this week, we're fine."
+  },
+  {
+   "speaker": "Emily",
+   "start": 96.999,
+   "end": 101.379,
+   "text": "Good. Next item, furniture. Thandi, you were collecting quotes."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 101.912,
+   "end": 110.902,
+   "text": "I have three quotes. The cheapest is forty two thousand, and the one I'd recommend is fifty one thousand, because it includes installation."
+  },
+  {
+   "speaker": "James",
+   "start": 111.393,
+   "end": 113.009,
+   "text": "What's the difference in quality?"
+  },
+  {
+   "speaker": "Thandi",
+   "start": 113.453,
+   "end": 120.393,
+   "text": "The desks are the same. The recommended one has better chairs and a five year warranty, instead of two years."
+  },
+  {
+   "speaker": "James",
+   "start": 121.091,
+   "end": 125.828,
+   "text": "Then I think the extra cost is worth it, especially with the installation included."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 126.566,
+   "end": 131.125,
+   "text": "I agree. Installation alone would cost us five or six thousand otherwise."
+  },
+  {
+   "speaker": "Emily",
+   "start": 131.864,
+   "end": 135.344,
+   "text": "Any objections to going with the fifty one thousand dollar quote?"
+  },
+  {
+   "speaker": "Raj",
+   "start": 135.944,
+   "end": 136.994,
+   "text": "No objections."
+  },
+  {
+   "speaker": "Frank",
+   "start": 137.425,
+   "end": 138.286,
+   "text": "None from me."
+  },
+  {
+   "speaker": "Emily",
+   "start": 138.58,
+   "end": 144.186,
+   "text": "Then that's decided. Thandi, please accept that quote and ask for delivery in the last week of March."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 143.803,
+   "end": 147.87,
+   "text": "Will do. I'll send the purchase order to finance by Wednesday."
+  },
+  {
+   "speaker": "Emily",
+   "start": 148.582,
+   "end": 153.092,
+   "text": "Next, the seating plan. James, you were going to survey the teams."
+  },
+  {
+   "speaker": "James",
+   "start": 153.348,
+   "end": 160.177,
+   "text": "Yes. About seventy percent of people want to keep fixed desks, and thirty percent are happy to hot desk."
+  },
+  {
+   "speaker": "James",
+   "start": 160.677,
+   "end": 166.9,
+   "text": "The sales team wants to sit near the meeting rooms, and the engineers want the quiet corner away from the kitchen."
+  },
+  {
+   "speaker": "Raj",
+   "start": 166.6,
+   "end": 167.665,
+   "text": "Very much so."
+  },
+  {
+   "speaker": "Emily",
+   "start": 167.842,
+   "end": 171.722,
+   "text": "That seems reasonable. Can you draft a seating plan for the next meeting?"
+  },
+  {
+   "speaker": "James",
+   "start": 172.2,
+   "end": 175.247,
+   "text": "I can have a first draft by the twentieth of January."
+  },
+  {
+   "speaker": "Emily",
+   "start": 175.414,
+   "end": 179.117,
+   "text": "Great. Olivia, the budget. Where do we stand overall?"
+  },
+  {
+   "speaker": "Olivia",
+   "start": 179.661,
+   "end": 186.167,
+   "text": "The approved budget is three hundred and twenty thousand. With the furniture decision, we've committed two hundred and ninety."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 186.734,
+   "end": 191.324,
+   "text": "That leaves thirty thousand for contingencies, which is a bit thin given the lease risk."
+  },
+  {
+   "speaker": "Frank",
+   "start": 192.069,
+   "end": 198.6,
+   "text": "The fit-out quote also has a ten percent allowance for surprises, so we have some cushion there."
+  },
+  {
+   "speaker": "Emily",
+   "start": 199.065,
+   "end": 204.655,
+   "text": "Okay. Let's keep an eye on it, and report back if the contingency drops below twenty thousand."
+  },
+  {
+   "speaker": "Thandi",
+   "start": 205.148,
+   "end": 210.568,
+   "text": "One open question from my side. Are we keeping the old furniture, or selling it?"
+  },
+  {
+   "speaker": "Emily",
+   "start": 211.019,
+   "end": 213.489,
+   "text": "Good question. I don't think we've decided."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 213.926,
+   "end": 218.016,
+   "text": "Some of it could go to the Sydney office. They asked for desks last year."
+  },
+  {
+   "speaker": "Emily",
+   "start": 218.514,
+   "end": 223.344,
+   "text": "Let's find out what Sydney actually needs before we decide. Can someone ask them?"
+  },
+  {
+   "speaker": "Thandi",
+   "start": 223.996,
+   "end": 226.656,
+   "text": "I'll ask the Sydney office manager this week."
+  },
+  {
+   "speaker": "Emily",
+   "start": 226.345,
+   "end": 232.105,
+   "text": "Thank you. Last item, communication to staff. I'd like to send an update before Christmas."
+  },
+  {
+   "speaker": "James",
+   "start": 232.49,
+   "end": 236.884,
+   "text": "I can write the first draft, and include the seating survey results."
+  },
+  {
+   "speaker": "Emily",
+   "start": 237.168,
+   "end": 243.528,
+   "text": "Perfect. Let me summarise the actions. Frank chases the landlord about the fibre access form tomorrow."
+  },
+  {
+   "speaker": "Emily",
+   "start": 243.943,
+   "end": 250.492,
+   "text": "Thandi accepts the furniture quote, sends the purchase order by Wednesday, and asks Sydney about the old furniture."
+  },
+  {
+   "speaker": "Emily",
+   "start": 250.657,
+   "end": 258.377,
+   "text": "James drafts the seating plan by the twentieth of January and writes the staff update. Olivia follows up on the lease extension next week."
+  },
+  {
+   "speaker": "Olivia",
+   "start": 258.541,
+   "end": 261.364,
+   "text": "And Raj orders the fibre as soon as the form is signed."
+  },
+  {
+   "speaker": "Raj",
+   "start": 262.159,
+   "end": 263.575,
+   "text": "Yes, the same day."
+  },
+  {
+   "speaker": "Emily",
+   "start": 263.916,
+   "end": 267.363,
+   "text": "Great. Thanks everyone. We'll meet again in two weeks."
+  }
+ ]
+}

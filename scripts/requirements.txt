@@ -1,0 +1,4 @@
+# Mac-side Python tools (synthetic test meetings, accuracy metrics). Installed into .tooling/venv by setup-tooling.sh.
+numpy==2.0.2 \
+    --hash=sha256:2b2955fa6f11907cf7a70dab0d0755159bca87755e831e47932367fc8f2f2d0b \
+    --hash=sha256:423e89b23490805d2a5a96fe40ec507407b8ee786d66f7328be214f9679df6dd

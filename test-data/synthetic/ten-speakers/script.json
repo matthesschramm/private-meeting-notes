@@ -1,0 +1,517 @@
+{
+ "title": "Ten-person planning workshop",
+ "voices": {
+  "Emily": "Samantha",
+  "James": "Daniel",
+  "Olivia": "Flo (English (UK))",
+  "Raj": "Rishi",
+  "Niamh": "Moira",
+  "Thandi": "Shelley (English (UK))",
+  "Frank": "Ralph",
+  "Kate": "Kathy",
+  "Priya": "Tara",
+  "Oliver": "Reed (English (UK))"
+ },
+ "lines": [
+  [
+   "Raj",
+   "Good afternoon, everyone. This is the steering committee for the office move, and we have six items today. Let's start with the timeline."
+  ],
+  [
+   "Olivia",
+   "The landlord has confirmed we can get the keys on the first of February. The fit-out will take about eight weeks after that."
+  ],
+  [
+   "Raj",
+   "So we'd move in at the start of April?"
+  ],
+  [
+   "James",
+   "Early April, yes, assuming the council approves the plans for the kitchen and the bathrooms."
+  ],
+  [
+   "Frank",
+   "When do we expect the council decision?"
+  ],
+  [
+   "Niamh",
+   "They said four to six weeks. We submitted the plans last Monday."
+  ],
+  [
+   "Emily",
+   "Okay. Olivia, what does that mean for the lease on the current office?"
+  ],
+  [
+   "Raj",
+   "Our current lease ends on the thirty first of March. We can extend month to month, but the rent goes up by twenty percent."
+  ],
+  [
+   "James",
+   "Twenty percent is steep. Is that negotiable?"
+  ],
+  [
+   "Priya",
+   "I've asked. They'll come back to me next week. Worst case, one extra month costs us about nine thousand dollars."
+  ],
+  [
+   "Oliver",
+   "Let's plan for one extra month as a contingency, and hope we don't need it."
+  ],
+  [
+   "Emily",
+   "Can I raise the network setup? That's the thing most likely to delay us."
+  ],
+  [
+   "Kate",
+   "Go ahead, Raj."
+  ],
+  [
+   "Niamh",
+   "The building has fibre, but the provider needs ten weeks' notice to connect us. If we order it after the keys, we'll miss April."
+  ],
+  [
+   "Olivia",
+   "Can we order it before we have the keys?"
+  ],
+  [
+   "James",
+   "Yes, if the landlord signs the access form. I sent it to them on Tuesday, but I haven't heard back."
+  ],
+  [
+   "Niamh",
+   "I'll chase the landlord tomorrow. I'm meeting their property manager anyway."
+  ],
+  [
+   "Olivia",
+   "Thanks, Frank. If we get the form signed this week, we're fine."
+  ],
+  [
+   "Niamh",
+   "Good. Next item, furniture. Thandi, you were collecting quotes."
+  ],
+  [
+   "Emily",
+   "I have three quotes. The cheapest is forty two thousand, and the one I'd recommend is fifty one thousand, because it includes installation."
+  ],
+  [
+   "Frank",
+   "What's the difference in quality?"
+  ],
+  [
+   "Oliver",
+   "The desks are the same. The recommended one has better chairs and a five year warranty, instead of two years."
+  ],
+  [
+   "Niamh",
+   "Then I think the extra cost is worth it, especially with the installation included."
+  ],
+  [
+   "Emily",
+   "I agree. Installation alone would cost us five or six thousand otherwise."
+  ],
+  [
+   "Priya",
+   "Any objections to going with the fifty one thousand dollar quote?"
+  ],
+  [
+   "James",
+   "No objections."
+  ],
+  [
+   "Olivia",
+   "None from me."
+  ],
+  [
+   "Kate",
+   "Then that's decided. Thandi, please accept that quote and ask for delivery in the last week of March."
+  ],
+  [
+   "James",
+   "Will do. I'll send the purchase order to finance by Wednesday."
+  ],
+  [
+   "Raj",
+   "Next, the seating plan. James, you were going to survey the teams."
+  ],
+  [
+   "Olivia",
+   "Yes. About seventy percent of people want to keep fixed desks, and thirty percent are happy to hot desk."
+  ],
+  [
+   "Emily",
+   "The sales team wants to sit near the meeting rooms, and the engineers want the quiet corner away from the kitchen."
+  ],
+  [
+   "Raj",
+   "Very much so."
+  ],
+  [
+   "Kate",
+   "That seems reasonable. Can you draft a seating plan for the next meeting?"
+  ],
+  [
+   "Emily",
+   "I can have a first draft by the twentieth of January."
+  ],
+  [
+   "James",
+   "Great. Olivia, the budget. Where do we stand overall?"
+  ],
+  [
+   "Olivia",
+   "The approved budget is three hundred and twenty thousand. With the furniture decision, we've committed two hundred and ninety."
+  ],
+  [
+   "Emily",
+   "That leaves thirty thousand for contingencies, which is a bit thin given the lease risk."
+  ],
+  [
+   "Raj",
+   "The fit-out quote also has a ten percent allowance for surprises, so we have some cushion there."
+  ],
+  [
+   "Frank",
+   "Okay. Let's keep an eye on it, and report back if the contingency drops below twenty thousand."
+  ],
+  [
+   "Niamh",
+   "One open question from my side. Are we keeping the old furniture, or selling it?"
+  ],
+  [
+   "Raj",
+   "Good question. I don't think we've decided."
+  ],
+  [
+   "Kate",
+   "Some of it could go to the Sydney office. They asked for desks last year."
+  ],
+  [
+   "Emily",
+   "Let's find out what Sydney actually needs before we decide. Can someone ask them?"
+  ],
+  [
+   "Raj",
+   "I'll ask the Sydney office manager this week."
+  ],
+  [
+   "Olivia",
+   "Thank you. Last item, communication to staff. I'd like to send an update before Christmas."
+  ],
+  [
+   "Niamh",
+   "I can write the first draft, and include the seating survey results."
+  ],
+  [
+   "Emily",
+   "Perfect. Let me summarise the actions. Frank chases the landlord about the fibre access form tomorrow."
+  ],
+  [
+   "Frank",
+   "Thandi accepts the furniture quote, sends the purchase order by Wednesday, and asks Sydney about the old furniture."
+  ],
+  [
+   "Emily",
+   "James drafts the seating plan by the twentieth of January and writes the staff update. Olivia follows up on the lease extension next week."
+  ],
+  [
+   "Frank",
+   "And Raj orders the fibre as soon as the form is signed."
+  ],
+  [
+   "Priya",
+   "Yes, the same day."
+  ],
+  [
+   "Olivia",
+   "Great. Thanks everyone. We'll meet again in two weeks."
+  ],
+  [
+   "James",
+   "Morning everyone. Let's get started, we've got a lot to cover before the launch. Raj, do you want to begin with the release status?"
+  ],
+  [
+   "Niamh",
+   "Sure. The release candidate went out to the beta group on Monday. We've had about three hundred people install it so far."
+  ],
+  [
+   "Emily",
+   "Crash rates are low, under half a percent, but there's one issue with the sync on older tablets that we need to fix."
+  ],
+  [
+   "Olivia",
+   "How serious is the tablet issue?"
+  ],
+  [
+   "Emily",
+   "It only happens when the battery saver is on. The sync stops in the background and doesn't resume until you open the app."
+  ],
+  [
+   "Niamh",
+   "That sounds like the background limits changed in the last system update."
+  ],
+  [
+   "Frank",
+   "Yes, exactly, that's our theory too. I think we can work around it, but it'll take a few days."
+  ],
+  [
+   "Raj",
+   "Okay. Is that a blocker for the launch on the twentieth?"
+  ],
+  [
+   "James",
+   "I don't think so. It affects maybe two percent of users, and they don't lose any data. It just syncs later."
+  ],
+  [
+   "Olivia",
+   "From the support side, I'd rather we ship with a known issue than delay. We can put a note in the help centre."
+  ],
+  [
+   "Emily",
+   "Agreed. Let's keep the launch date of October the twentieth, and treat the tablet sync as a fast follow."
+  ],
+  [
+   "Thandi",
+   "Okay, I'll plan the fix for the first patch release."
+  ],
+  [
+   "James",
+   "James, where are we on the marketing assets?"
+  ],
+  [
+   "Emily",
+   "The landing page is done and the screenshots are being updated this week. The launch video is the one I'm worried about."
+  ],
+  [
+   "Olivia",
+   "Why is that?"
+  ],
+  [
+   "Raj",
+   "The agency sent the first cut yesterday and it uses the old onboarding screens. They need the new ones from design."
+  ],
+  [
+   "Olivia",
+   "Mm-hm."
+  ],
+  [
+   "Kate",
+   "If they get the new screens by Thursday, they can still deliver the final version by the fifteenth."
+  ],
+  [
+   "Niamh",
+   "Who owns getting them the screens?"
+  ],
+  [
+   "James",
+   "That's me. I'll get the exported screens from the design team and send them over by Thursday."
+  ],
+  [
+   "Raj",
+   "Great. Niamh, how is support preparing for the launch?"
+  ],
+  [
+   "Priya",
+   "We've written twelve new help articles, and the team has done two training sessions on the new features."
+  ],
+  [
+   "Raj",
+   "My main concern is staffing. Last launch, our ticket volume tripled in the first week."
+  ],
+  [
+   "Niamh",
+   "Do we have extra people lined up?"
+  ],
+  [
+   "Emily",
+   "Two people from the sales team volunteered to help with the chat queue. I'd like one more, ideally someone technical."
+  ],
+  [
+   "Raj",
+   "I could lend you one of the engineers for the first three days. Maybe Tom, he knows the sync code really well."
+  ],
+  [
+   "Olivia",
+   "That would be brilliant, thank you."
+  ],
+  [
+   "Raj",
+   "Good. Raj, can you confirm with Tom this week?"
+  ],
+  [
+   "Emily",
+   "Yes, I'll ask him today."
+  ],
+  [
+   "Olivia",
+   "Next, budget. We're about fifteen thousand dollars over on the launch budget, mostly because of the video."
+  ],
+  [
+   "Oliver",
+   "Some of that is the reshoot. The original agency quote didn't include the second day of filming."
+  ],
+  [
+   "Olivia",
+   "Can we cover it from the events budget? The conference in December was cancelled."
+  ],
+  [
+   "Emily",
+   "I think so, but finance needs to approve moving the money."
+  ],
+  [
+   "Raj",
+   "Then I'll raise it with finance on Friday. If they say no, we'll cut the paid social campaign instead."
+  ],
+  [
+   "Emily",
+   "Can I ask one question about the launch day itself? Are we doing the announcement in the morning or the afternoon?"
+  ],
+  [
+   "Olivia",
+   "That's not decided yet. The press team wants the morning, but our users are mostly in the US, so the afternoon might be better."
+  ],
+  [
+   "Oliver",
+   "From an engineering view, the morning is better. If something goes wrong, we have the whole day to fix it."
+  ],
+  [
+   "Raj",
+   "That's a fair point. Let's leave it open for now, and I'll decide with the press team by Monday."
+  ],
+  [
+   "Olivia",
+   "Okay, let me summarise. Launch stays on the twentieth. Raj fixes the tablet sync in the first patch and confirms Tom for support."
+  ],
+  [
+   "Raj",
+   "James sends the new screens to the agency by Thursday. I'll talk to finance on Friday and decide the announcement time by Monday."
+  ],
+  [
+   "Olivia",
+   "And I'll publish the help articles the day before launch."
+  ],
+  [
+   "Thandi",
+   "Perfect. Thanks everyone, same time next week."
+  ],
+  [
+   "Kate",
+   "Thanks for making time, James. I wanted to go through the cloud hosting renewal before the end of the month."
+  ],
+  [
+   "Thandi",
+   "Sure. I had a look at the quote they sent on Friday. It's about eighteen percent higher than last year."
+  ],
+  [
+   "Olivia",
+   "That's more than I expected. Did they explain where the increase comes from?"
+  ],
+  [
+   "Niamh",
+   "Mostly storage. Our backups have doubled since March, and they've moved us onto a new pricing tier."
+  ],
+  [
+   "Priya",
+   "Right."
+  ],
+  [
+   "Emily",
+   "The compute part is actually a little cheaper, because we committed to reserved instances last spring."
+  ],
+  [
+   "James",
+   "Okay. So if we cleaned up the old backups, how much of that would we save?"
+  ],
+  [
+   "Niamh",
+   "Probably a third of the increase. We keep ninety days of snapshots, and nobody has restored anything older than two weeks."
+  ],
+  [
+   "Thandi",
+   "Then let's cut the retention to thirty days. Can you check with the security team that thirty days still meets the audit requirements?"
+  ],
+  [
+   "Niamh",
+   "Yes, I'll ask Priya today. She did the last audit, so she'll know."
+  ],
+  [
+   "Frank",
+   "Great. And what about the alternative provider? Did you get a number from them?"
+  ],
+  [
+   "Raj",
+   "I did. They're about ten percent cheaper on paper, but the migration would take at least six weeks of engineering time."
+  ],
+  [
+   "Frank",
+   "Six weeks is a lot. We don't have that before the product launch in November."
+  ],
+  [
+   "Oliver",
+   "Exactly. My suggestion is to renew for one year, not three, and revisit the move in the spring."
+  ],
+  [
+   "Olivia",
+   "I agree. Let's renew for one year. I'll sign the contract once the retention change is confirmed."
+  ],
+  [
+   "Kate",
+   "Sounds good."
+  ],
+  [
+   "Thandi",
+   "The other thing I wanted to talk about is hiring. How are the interviews for the platform engineer going?"
+  ],
+  [
+   "Kate",
+   "We've had four candidates so far. Two were strong, and one of them, Marco, has done exactly this kind of migration before."
+  ],
+  [
+   "Emily",
+   "That would be useful if we do move providers next year."
+  ],
+  [
+   "Priya",
+   "That's what I thought. I'd like to bring him in for the final round next week, if you can join."
+  ],
+  [
+   "Frank",
+   "I can do Tuesday or Thursday afternoon. Wednesday is full of budget meetings."
+  ],
+  [
+   "Oliver",
+   "Let's say Thursday at two. I'll send the invite and the take-home task results."
+  ],
+  [
+   "James",
+   "Perfect. Is there anything blocking you that I can help with?"
+  ],
+  [
+   "Niamh",
+   "Just one thing. The finance team still hasn't approved the monitoring tool we asked for in August."
+  ],
+  [
+   "Emily",
+   "I'll chase that with Daniel in finance. I think it's stuck because the request went to the wrong cost centre."
+  ],
+  [
+   "Niamh",
+   "That would explain it. Thanks."
+  ],
+  [
+   "Priya",
+   "Okay, so to recap. You'll confirm the thirty day retention with Priya, and send me the updated quote by Friday."
+  ],
+  [
+   "Emily",
+   "Yes. And I'll set up the final interview with Marco for Thursday at two."
+  ],
+  [
+   "James",
+   "And I'll sort out the monitoring tool approval. Thanks, James, that was really helpful."
+  ],
+  [
+   "Emily",
+   "Thanks, Sarah. Talk soon."
+  ]
+ ]
+}

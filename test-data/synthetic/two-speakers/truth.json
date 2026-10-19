@@ -1,0 +1,190 @@
+{
+ "title": "Vendor renewal one-on-one",
+ "durationSec": 161.744,
+ "speakers": [
+  "Sarah",
+  "James"
+ ],
+ "segments": [
+  {
+   "speaker": "Sarah",
+   "start": 0.6,
+   "end": 6.68,
+   "text": "Thanks for making time, James. I wanted to go through the cloud hosting renewal before the end of the month."
+  },
+  {
+   "speaker": "James",
+   "start": 7.063,
+   "end": 13.287,
+   "text": "Sure. I had a look at the quote they sent on Friday. It's about eighteen percent higher than last year."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 13.677,
+   "end": 17.717,
+   "text": "That's more than I expected. Did they explain where the increase comes from?"
+  },
+  {
+   "speaker": "James",
+   "start": 18.495,
+   "end": 24.512,
+   "text": "Mostly storage. Our backups have doubled since March, and they've moved us onto a new pricing tier."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 24.112,
+   "end": 24.512,
+   "text": "Right."
+  },
+  {
+   "speaker": "James",
+   "start": 24.886,
+   "end": 30.529,
+   "text": "The compute part is actually a little cheaper, because we committed to reserved instances last spring."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 31.123,
+   "end": 35.803,
+   "text": "Okay. So if we cleaned up the old backups, how much of that would we save?"
+  },
+  {
+   "speaker": "James",
+   "start": 36.01,
+   "end": 43.324,
+   "text": "Probably a third of the increase. We keep ninety days of snapshots, and nobody has restored anything older than two weeks."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 43.701,
+   "end": 50.661,
+   "text": "Then let's cut the retention to thirty days. Can you check with the security team that thirty days still meets the audit requirements?"
+  },
+  {
+   "speaker": "James",
+   "start": 51.317,
+   "end": 56.01,
+   "text": "Yes, I'll ask Priya today. She did the last audit, so she'll know."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 56.776,
+   "end": 61.116,
+   "text": "Great. And what about the alternative provider? Did you get a number from them?"
+  },
+  {
+   "speaker": "James",
+   "start": 61.728,
+   "end": 68.701,
+   "text": "I did. They're about ten percent cheaper on paper, but the migration would take at least six weeks of engineering time."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 69.328,
+   "end": 73.499,
+   "text": "Six weeks is a lot. We don't have that before the product launch in November."
+  },
+  {
+   "speaker": "James",
+   "start": 74.144,
+   "end": 80.417,
+   "text": "Exactly. My suggestion is to renew for one year, not three, and revisit the move in the spring."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 80.8,
+   "end": 86.46,
+   "text": "I agree. Let's renew for one year. I'll sign the contract once the retention change is confirmed."
+  },
+  {
+   "speaker": "James",
+   "start": 86.16,
+   "end": 86.915,
+   "text": "Sounds good."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 87.134,
+   "end": 92.694,
+   "text": "The other thing I wanted to talk about is hiring. How are the interviews for the platform engineer going?"
+  },
+  {
+   "speaker": "James",
+   "start": 93.41,
+   "end": 101.411,
+   "text": "We've had four candidates so far. Two were strong, and one of them, Marco, has done exactly this kind of migration before."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 101.671,
+   "end": 104.664,
+   "text": "That would be useful if we do move providers next year."
+  },
+  {
+   "speaker": "James",
+   "start": 104.937,
+   "end": 110.452,
+   "text": "That's what I thought. I'd like to bring him in for the final round next week, if you can join."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 110.823,
+   "end": 115.193,
+   "text": "I can do Tuesday or Thursday afternoon. Wednesday is full of budget meetings."
+  },
+  {
+   "speaker": "James",
+   "start": 115.885,
+   "end": 120.81,
+   "text": "Let's say Thursday at two. I'll send the invite and the take-home task results."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 121.493,
+   "end": 124.663,
+   "text": "Perfect. Is there anything blocking you that I can help with?"
+  },
+  {
+   "speaker": "James",
+   "start": 125.353,
+   "end": 131.114,
+   "text": "Just one thing. The finance team still hasn't approved the monitoring tool we asked for in August."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 131.747,
+   "end": 137.56,
+   "text": "I'll chase that with Daniel in finance. I think it's stuck because the request went to the wrong cost centre."
+  },
+  {
+   "speaker": "James",
+   "start": 138.343,
+   "end": 140.537,
+   "text": "That would explain it. Thanks."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 140.795,
+   "end": 147.673,
+   "text": "Okay, so to recap. You'll confirm the thirty day retention with Priya, and send me the updated quote by Friday."
+  },
+  {
+   "speaker": "James",
+   "start": 147.324,
+   "end": 151.668,
+   "text": "Yes. And I'll set up the final interview with Marco for Thursday at two."
+  },
+  {
+   "speaker": "Sarah",
+   "start": 152.201,
+   "end": 157.597,
+   "text": "And I'll sort out the monitoring tool approval. Thanks, James, that was really helpful."
+  },
+  {
+   "speaker": "James",
+   "start": 158.197,
+   "end": 160.744,
+   "text": "Thanks, Sarah. Talk soon."
+  }
+ ]
+}
